@@ -5,7 +5,7 @@
     "resolution": [3840, 2160], 
     "viewing_distance_meters":  0.7472,  
     "diagonal_size_inches": 30,   
-    "max_luminance": 200,   
+    "max_luminance": 300,
     "contrast": 1000,
     "E_ambient": 250,
     "source": "none" },
